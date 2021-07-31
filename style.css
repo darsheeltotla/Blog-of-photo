@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color: pink;
+}
+
+.text1{
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: white;
+    padding-top: 3px;
+    padding-left: 10px;
+    padding-right: 20px;
+}
+
+#pic1,#pic2,#pic3,#pic4{
+    width: 400px;
+    height: 400px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+div{
+    margin-top: 15px;
+}
+
+
